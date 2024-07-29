@@ -1,4 +1,4 @@
-# Codigo-Coleta-PLOS-ONE
+# scraping-code-PLOS-ONE
 Repository with the code related to the article publication in the PLOS ONE Journal (https://journals.plos.org/plosone/), regarding the construction of the dataset ITED-Br.
 
 # Data Usage Agreement

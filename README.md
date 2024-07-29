@@ -1,5 +1,5 @@
 # scraping-code-PLOS-ONE
-Repository with the code related to the related article publication, regarding the construction of the dataset ITED-Br and it's characteristics.
+Repository with the code related to the article publication, regarding the construction of the dataset ITED-Br and it's characteristics.
 
 # DOI
 https://zenodo.org/doi/10.5281/zenodo.13124582

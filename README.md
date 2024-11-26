@@ -149,9 +149,7 @@ data = pd.read_parquet(directory)
 | query_bolsonaro          | 37,158,316 |
 | query_lula               | 35,179,413 |
 | retweets_pos_eleicao     | 10,055,682 |
-| perfil_lula
-
-              | 6,955,987  |
+| perfil_lula              | 6,955,987  |
 | retweets_query_ciro      | 6,405,281  |
 | pos_eleicao              | 6,277,433  |
 | query_ciro               | 5,452,873  |
